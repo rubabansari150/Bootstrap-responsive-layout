@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient( -45deg, rgba(104, 104, 243, 0.2), rgba(185, 123, 243, 0.5));
+    
+}
+.navbar{
+    background-color:blueviolet;
+}
+#img{
+    height: 40px;
+    width: 40px;
+}
+.d-flex{
+    margin-right: 300px;
+    width: 280px;
+}
+.fa {
+   margin: 10px;
+}
+#p1{
+    color: white;
+    margin: 10px;
+    border-right:1px solid white ;
+    border-left:1px solid white ;
+    padding:0 10px 0 10px ;
+}
+
+.rounded{
+    height: 150px;
+    width: 180px;
+    margin-left:580px;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 55px;
+    font-weight:600;
+}
+h5{
+    text-align: center;
+    line-height: normal;
+    font-size: 22px;
+    color: rgb(139, 138, 138);
+}
+.center{
+    padding-left:90px;
+}
+footer{
+    background-image: linear-gradient( -45deg, rgba(104, 104, 243, 0.2), rgba(185, 123, 243, 0.5));
+    
+}
+
+
+
+
+
